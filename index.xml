@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<shops>
+    <products xmlns:a="www.ppp.com">
+    <a:name>iphone</a:name>
+    <a:D> abcd </a:D>
+    <a:oldp>1100</a:oldp>
+    <a:newp>20000</a:newp>
+    </products>
+
+    <pro  xmlns:b="www.xyz.com">
+        <b:name>Samsung</b:name>
+        <b:D> sdmlemf</b:D>
+        <b:oldp>1310</b:oldp>
+        <b:newp>3000</b:newp>
+        </pro>
+
+        <product  xmlns:c="www.fff.com">
+            <c:name>infinix</c:name>
+            <c:D> beferfhe </c:D>
+            <c:oldp>3300</c:oldp>
+            <c:newp>1100</c:newp>
+            </product>
+</shops>
